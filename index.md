@@ -1,6 +1,8 @@
 ## Welcome to Kiran Kumari's Web page.
 I am a PhD student at the [IIT Bombay Monash Research Academy](https://www.iitbmonash.org)
 
+-----
+
 You can use the [editor on GitHub](https://github.com/kirankumari-monash/kiran.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
